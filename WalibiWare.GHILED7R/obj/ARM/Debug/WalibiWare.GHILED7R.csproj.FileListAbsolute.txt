@@ -1,0 +1,17 @@
+I:\Dev\UWP\WalibiWare.Main\WalibiWare.GHILED7R\bin\ARM\Debug\WalibiWare.GHILED7R.dll
+I:\Dev\UWP\WalibiWare.Main\WalibiWare.GHILED7R\bin\ARM\Debug\WalibiWare.GHILED7R.pdb
+I:\Dev\UWP\WalibiWare.Main\WalibiWare.GHILED7R\bin\ARM\Debug\WalibiWare.GHILED7R.pri
+I:\Dev\UWP\WalibiWare.Main\WalibiWare.GHILED7R\obj\ARM\Debug\WalibiWare.GHILED7R.csprojResolveAssemblyReference.cache
+I:\Dev\UWP\WalibiWare.Main\WalibiWare.GHILED7R\obj\ARM\Debug\WalibiWare.GHILED7R.dll
+I:\Dev\UWP\WalibiWare.Main\WalibiWare.GHILED7R\obj\ARM\Debug\WalibiWare.GHILED7R.pdb
+I:\Dev\UWP\WalibiWare.Main\WalibiWare.GHILED7R\obj\ARM\Debug\priconfig.xml
+I:\Dev\UWP\WalibiWare.Main\WalibiWare.GHILED7R\obj\ARM\Debug\priconfig.xml.intermediate
+I:\Dev\UWP\WalibiWare.Main\WalibiWare.GHILED7R\obj\ARM\Debug\layout.resfiles
+I:\Dev\UWP\WalibiWare.Main\WalibiWare.GHILED7R\obj\ARM\Debug\layout.resfiles.intermediate
+I:\Dev\UWP\WalibiWare.Main\WalibiWare.GHILED7R\obj\ARM\Debug\resources.resfiles
+I:\Dev\UWP\WalibiWare.Main\WalibiWare.GHILED7R\obj\ARM\Debug\resources.resfiles.intermediate
+I:\Dev\UWP\WalibiWare.Main\WalibiWare.GHILED7R\obj\ARM\Debug\pri.resfiles
+I:\Dev\UWP\WalibiWare.Main\WalibiWare.GHILED7R\obj\ARM\Debug\pri.resfiles.intermediate
+I:\Dev\UWP\WalibiWare.Main\WalibiWare.GHILED7R\obj\ARM\Debug\qualifiers.txt
+I:\Dev\UWP\WalibiWare.Main\WalibiWare.GHILED7R\obj\ARM\Debug\qualifiers.txt.intermediate
+I:\Dev\UWP\WalibiWare.Main\WalibiWare.GHILED7R\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
